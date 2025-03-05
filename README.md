@@ -37,7 +37,7 @@ TODO
 
 ## Python module documentation
 
-The documentation is available at [https://tomansion.github.io/Python-module-template/](https://tomansion.github.io/Python-module-template/).
+The documentation is available at [https://tomansion.github.io/Git-course-CentraleSupelec/](https://tomansion.github.io/Git-course-CentraleSupelec/).
 
 ## Getting started
 
