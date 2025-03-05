@@ -1,1 +1,1 @@
-from .functions import add, subtract
+from .functions import add, subtract, divide

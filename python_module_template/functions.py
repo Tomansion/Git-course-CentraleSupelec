@@ -40,3 +40,18 @@ def Multiply(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     int or float: The multiplication of the two numbers.
     """
     return a * b
+
+def divide(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
+    """
+    Divide two numbers.
+
+    Parameters:
+    a (int or float): The first number.
+    b (int or float): The second number.
+
+    Returns:
+    int or float: The division of the two numbers.
+    """
+    if b == 0:
+        raise ValueError("Cannot divide by zero.")
+    return a / b
