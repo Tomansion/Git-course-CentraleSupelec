@@ -28,6 +28,7 @@ def subtract(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     """
     return a - b
 
+
 def Multiply(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     """
     Mutlpity two numbers.
@@ -40,6 +41,7 @@ def Multiply(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     int or float: The multiplication of the two numbers.
     """
     return a * b
+
 
 def divide(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     """
