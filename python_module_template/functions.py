@@ -27,3 +27,7 @@ def subtract(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     int or float: The difference of the two numbers.
     """
     return a - b
+
+def myfunction():
+    return 1
+
