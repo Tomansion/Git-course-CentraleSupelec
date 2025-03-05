@@ -27,3 +27,16 @@ def subtract(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
     int or float: The difference of the two numbers.
     """
     return a - b
+
+def Multiply(a: Union[int, float], b: Union[int, float]) -> Union[int, float]:
+    """
+    Mutlpity two numbers.
+
+    Parameters:
+    a (int or float): The first number.
+    b (int or float): The second number.
+
+    Returns:
+    int or float: The multiplication of the two numbers.
+    """
+    return a * b
