@@ -10,7 +10,7 @@
 
 ---
 
-This project is a template for Python module. It includes a basic example of functions that allows users to do some simple arithmetic operations.
+This project is a template for Python module. It includes a basic example of functions that allows users to do some simple arithmetic operations, including addition, subtraction, multiplication, and division.
 
 ## Template features
 
